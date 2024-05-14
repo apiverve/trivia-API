@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/trivia-API.git"
   },
   "keywords": [
-    "trivia"," trivia generator"," trivia api"," trivia tool"," trivia software"," trivia service"," trivia library"," trivia sdk"," trivia code"," trivia script"," trivia program"," trivia application"," trivia app"," trivia utility"," trivia helper"," trivia helper tool"," trivia helper software"," trivia helper service"," trivia helper library"," trivia helper sdk"," trivia helper code"," trivia helper script"," trivia helper program"," trivia helper application"," trivia helper app"," trivia helper tool"," trivia helper utility"," trivia helper"
+    "trivia","trivia generator","trivia api","trivia tool","trivia software"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
