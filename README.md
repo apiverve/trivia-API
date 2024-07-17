@@ -71,13 +71,13 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "question": "What word means fear of prostitutes or venereal disease?",
-    "answer": "Cypridophobia",
+    "question": "When a contestant selects the Daily Double on the game show Jeopardy! what is the least amount the player can wager?",
+    "answer": "$5",
     "options": [
-      "A Cynophobia",
-      "B Cyclophobia",
-      "C Cypridophobia",
-      "D Cymophobia"
+      "A $5",
+      "B $100",
+      "C $50",
+      "D $250"
     ],
     "category": "general"
   }
