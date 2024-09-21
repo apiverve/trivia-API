@@ -71,13 +71,11 @@ api.execute(query, function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "question": "According to the popular TV show, at what restaurant does Alice work?",
-    "answer": "Mels Diner",
+    "question": "The Los Angeles Earthquake of 1916 caused a 3-day fire.",
+    "answer": "False",
     "options": [
-      "A Dennys",
-      "B Burger King",
-      "C McDonalds",
-      "D Mels Diner"
+      "A False",
+      "B True"
     ],
     "category": "general"
   },
