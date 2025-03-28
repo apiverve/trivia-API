@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/trivia",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.",
   "main": "index.js",
   "scripts": {
