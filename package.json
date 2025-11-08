@@ -1,24 +1,26 @@
 {
   "name": "@apiverve/trivia",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "Trivia is a simple tool for getting trivia questions. It returns a random trivia question based on your selected category.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "example": "node examples/basic.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/apiverve/trivia-API.git"
   },
   "keywords": [
-    "trivia","trivia generator","trivia api","trivia tool","trivia software"
+    "trivia", "trivia generator", "trivia api", "trivia tool", "trivia software"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/apiverve/trivia-API/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/api/trivia?utm_source=npm",
+  "homepage": "https://apiverve.com/marketplace/trivia?utm_source=npm",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
@@ -27,6 +29,6 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.7.9"
+    "axios": "1.13.2"
   }
 }
